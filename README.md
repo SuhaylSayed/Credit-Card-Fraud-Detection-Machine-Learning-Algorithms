@@ -1,17 +1,17 @@
-# Credit-Card-Fraud-Detection-Machine-Learning-Algorithms
-R based machine learning algorithms developed using various training and sampling methodologies to detected credit card fraud
+# Credit-Card-Fraud-Detection-Machine-Learning-Algorithm
+R-based machine learning algorithm developed using various training and sampling methodologies to detect credit card fraud
 
 # Objective
 
 The median fraud loss in Canada represents about 5% of annual revenues, quite close to the Association of Certified Fraud Examiners (ACFE) estimate of 7% of annual revenues for all U.S. organizations. 
 
-Traditionally, rule-based algorithms have been used to detected credit card fraud in real time. These algorithms, which are based on strict rules are time consuming and costly to maintain. They also have a difficult time identify hidden patterns and responding to new situations that they have not explicitly been trained for. My objective is to develop a more effective and efficient machine learning model making use of various machine learning and sampling technics. 
+Traditionally, rule-based algorithms have been used to detect credit card fraud in real time. These algorithms, which are based on strict rules, are time-consuming and costly to maintain. They also have a difficult time identifying hidden patterns and responding to new situations that they have not explicitly been trained for. My objective is to develop a more effective and efficient machine learning model making use of various machine learning and sampling techniques. 
 
 
 # About the Data
 
 
-The data set is meant to mimic real life fraud detection. It is unbalanced and has some incorrect flagging (some outlier fraud cases aren’t flagged). This means that it is difficult to use traditional supervised learning to train our models. These challenges must be address, they are outlined below.
+The data set is meant to mimic real life fraud detection. It is unbalanced and has some incorrect flagging (some outlier fraud cases aren’t flagged). This means that it is difficult to use traditional supervised learning to train our models. These challenges must be addressed, they are outlined below.
 
 Challenges:
 - Unbalanced data
@@ -30,13 +30,13 @@ The data is very imbalanced - the vast majority of the cases are legitimate. If 
 
 The following sampling methods will be used to balance our data and train the machine learning model. 
 
-Random over-sampling (ROS) - Increase the number of fraud transactions be creating duplicates of the already present fraud cases.
+Random over-sampling (ROS) - Increase the number of fraud transactions by creating duplicates of the already present fraud cases.
 
 Random under-sampling (RUS) - Decrease the number of legitimate cases by random removal. 
 
 Bot (RUS & ROS) - Increase the number of fraud transactions and decrease the number of legitimate transactions. 
 
-Synthetic Minority Over-Sampling Technique (SMOTE) - Over-sample minority class (fraud transactions) by created synthetic fraud cases
+Synthetic Minority Over-Sampling Technique (SMOTE) - Over-sample minority class (fraud transactions) by creating synthetic fraud cases
 
 Once the data is balanced we will use it to train a Classification And Regression Tree (CART) as our predictive model
 
