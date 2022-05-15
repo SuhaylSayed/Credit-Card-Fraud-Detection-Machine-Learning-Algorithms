@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection-Machine-Learning-Algorithm
-R-based machine learning algorithm developed using various training and sampling methodologies to detect credit card fraud
+R-based Classification And Regression Tree machine learning model developed using various training and sampling methodologies to detect credit card fraud
 
 # Objective
 
