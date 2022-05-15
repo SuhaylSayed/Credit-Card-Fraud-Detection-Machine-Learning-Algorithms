@@ -47,15 +47,11 @@ Once the data is balanced we will use it to train a Classification And Regressio
 - Confusion Matrix of with no model - 0/64 fraud cases were successfuly identified
 <img width="334" alt="image" src="https://user-images.githubusercontent.com/40481691/168497583-14913f4f-1458-45c5-bd91-67e38a995deb.png">
 
-
-- RUS dataset:
-<img width="501" alt="image" src="https://user-images.githubusercontent.com/40481691/168498031-8f04b1dd-1a1d-478b-ac63-6322957aa1eb.png">
-
 - ROS dataset:
 <img width="501" alt="image" src="https://user-images.githubusercontent.com/40481691/168498189-f2cae321-1bb5-40e4-b741-cb59055bb26d.png">
 
-- ROS dataset:
-<img width="397" alt="Screen Shot 2022-05-15 at 5 37 20 PM" src="https://user-images.githubusercontent.com/40481691/168494902-91ebbaae-0741-4815-af50-6cd80eac686e.png">
+- RUS dataset:
+<img width="503" alt="image" src="https://user-images.githubusercontent.com/40481691/168498835-c2c938e5-ad10-41a5-92e8-6881eee71101.png">
 
 - SMOTE dataset:
 <img width="502" alt="image" src="https://user-images.githubusercontent.com/40481691/168498288-51679fe2-fc3d-4ed6-85cd-8db384e8dfdb.png">
