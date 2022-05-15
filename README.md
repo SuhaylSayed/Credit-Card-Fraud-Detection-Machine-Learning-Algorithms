@@ -41,9 +41,9 @@ Synthetic Minority Over-Sampling Technique (SMOTE) - Over-sample minority class 
 Once the data is balanced we will use it to train a Classification And Regression Tree (CART) as our predictive model
 
 # Results
-
-Breakdown of fraud vs legitamate cases in our original dataset
 <img width="502" alt="image" src="https://user-images.githubusercontent.com/40481691/168497501-0377812f-013f-4269-891d-28330ac0f384.png">
+Breakdown of fraud vs legitamate cases in our original dataset
+
 
 Confusion Matrix of with no model - 0/64 fraud cases were successfuly identified
 <img width="334" alt="image" src="https://user-images.githubusercontent.com/40481691/168497583-14913f4f-1458-45c5-bd91-67e38a995deb.png">
