@@ -61,7 +61,7 @@ Once the data is balanced we will use it to train a Classification And Regressio
 <img width="383" alt="Screen Shot 2022-05-15 at 5 41 55 PM" src="https://user-images.githubusercontent.com/40481691/168495059-1161f31e-b8a8-428b-bcbb-d36e8cdca33e.png">
 
 
-- Confusion Matrix after training - 100% of fraud cases were successfuly identified
+- Confusion Matrix after training - of fraud cases were successfuly identified
 <img width="481" alt="Screen Shot 2022-05-15 at 5 42 46 PM" src="https://user-images.githubusercontent.com/40481691/168495073-2cbff508-0f75-433c-82d8-27fb349cffb4.png">
 
 
